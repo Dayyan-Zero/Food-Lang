@@ -25,7 +25,7 @@ If you'd like to contribute to the development of Food Lang, here are some guide
 
 I'll then review and filter suggestions, and if they match with the vision of the project, they'll be added into the project.
 
-> [!Info]
+> [!NOTE]
 > For those who know what they are doing, feel free to work in a new branch, and make a merge request to the `dev` branch. 
 > 
 > This would be a great help, especially when it comes to updates and bug fixes!
