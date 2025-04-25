@@ -1,0 +1,17 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/food_icons.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uDB80\udd51\uDB80\udd52\uDB80\udd53\uDB80\udd54",
+                "\uDB80\udd55\uDB80\udd56\uDB80\udd57\uDB80\udd58",
+                "\uDB80\udd59\uDB80\udd5a\uDB80\udd5b\uDB80\udd5c",
+                "\uDB80\udd5d\uDB80\udd5e\uDB80\udd5f\uDB80\udd60",
+                "\uDB80\udd61\uDB80\udd62\uDB80\udd63\uDB80\udd64"
+            ]
+        }
+    ]
+}

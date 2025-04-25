@@ -1,0 +1,13 @@
+{
+  "pack":{
+    "pack_format":52,
+	"supported_formats": {"min_inclusive": 16, "max_inclusive": 100},
+    "description":
+	  [
+		{"text": "Food value in tooltip name", "color": "#FFFFFF"},
+		"\n",
+		{"text": "By ", "color": "#AAAAAA"},
+		{"text": "Insanial", "color": "#FFAA00"}
+	  ]
+   }
+}
