@@ -4,11 +4,12 @@
 
 This branch is an archive for the older versions of Food Lang v1.17. There are packs for MC 1.16 and for MC 1.15 and below.
 
-Note: The old "types" / alt versions of this pack are deprecated. 
+> [!NOTE]
+> The old "types" / alt versions of this pack are deprecated. 
 
 ## Old Banner
 
-[!food-language-banner.png]
+![food-language-banner](food-language-banner.png)
 
 ## Credits & Acknowledgements 
 
